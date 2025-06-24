@@ -63,4 +63,8 @@ Integrating a GUI for user interaction.
 
 Deploying it as a web application using Flask or Streamlit.
 
+# OUTPUT #
+![image](https://github.com/user-attachments/assets/e2469dc1-944a-4ebd-8c05-70235f156259)
+
+
 
